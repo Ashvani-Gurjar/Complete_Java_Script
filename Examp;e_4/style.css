@@ -1,0 +1,25 @@
+body{
+     background-image: url("https://t4.ftcdn.net/jpg/01/34/71/25/240_F_134712585_Jz4F59qr9j66ipSkfxRCBMGgFJ6HFqjO.jpg");
+     text-align: center;
+     background-repeat: no-repeat;
+     background-size: cover ;
+     background-position: center;
+}
+
+.first{
+     font-size: -webkit-xxx-large;
+}
+.box{
+     width: 223px;
+     height: 223px;
+     background-color: rgb(238, 202, 202);
+     margin: 23px 570px;
+     border: black solid 2px;
+     border-radius: 50%;
+     text-align: center;
+}
+.clock{
+     font-size: xx-large;
+     color: black;
+     font-family: math;
+}

@@ -1,0 +1,26 @@
+#first{
+     background-color: black !important;
+}
+.container{
+     margin: 23px 23px;
+}
+.first{
+     margin: 43px 183px;
+     border-color: black solid 2px;
+}
+#todo{
+     width: 50wh;
+     height: 50wh;
+     border-radius: 5px;
+     border: 2px solid black;
+     background-color: #f2f2f2;
+     margin: 0px;
+     padding: 0px;
+
+}
+#deleteall{
+     margin: 8px;
+}
+#todo{
+     margin: 8px;
+}

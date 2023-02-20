@@ -1,0 +1,28 @@
+body {
+     background-color: rgb(223, 230, 223) !important;
+     color: white;
+     text-align: center !important;
+}
+
+#first {
+     background-color: black !important;
+     color: white;
+}
+
+a{
+     color: green !important;
+     font-size: x-large !important;
+}
+
+#cardcontainer {
+     margin: 23px 50px !important;
+     display: flex;
+     justify-content: center;
+     
+}
+#cardcontainer a{
+     color: black !important;
+}
+.container a{
+     color: black !important;
+}

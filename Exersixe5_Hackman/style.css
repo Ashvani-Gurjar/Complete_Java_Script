@@ -1,0 +1,16 @@
+ body{
+     top: 23px;
+     background-color: black;
+     text-align: center;
+     align-items: center;
+ }
+.first{
+     /* background-color: red; */
+     text-align: center;
+     margin: 9px;
+      color: rgb(3, 233, 3);
+}
+.second{
+     /* background-color: aliceblue; */
+     margin: 153px;
+}

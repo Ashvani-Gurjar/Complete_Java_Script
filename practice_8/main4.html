@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Bulb</title>
+      <style>
+          body{
+               background-color: antiquewhite;
+               text-align: center;
+               align-items: center;
+          }
+          .yellow{
+               width: 134px;
+               height: 134px;
+               background-color: yellow;
+               float: left;
+               margin: 5px;
+               border-radius: 50%;
+               margin: 200px 500px;
+
+          }
+          .red{
+               width: 134px;
+               height: 134px;
+               background-color: red;
+               float: left;
+               margin: 5px;
+               border-radius: 50%;
+               margin: 200px 500px;
+
+          }
+      </style>
+</head>
+<body>
+     
+     <div class="yellow red" id="red" ></div>
+       
+     <script>
+          
+         setInterval(function(){
+               red.classList.toggle("red")
+         },300)
+
+
+     </script>
+</body>
+</html>   
